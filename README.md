@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am studing Computer Science at Silesian University of Technology since 2021.<br>Before college I started learning C++ and during these two  years done few projects <br>(some of them are placed in repository).<br>Currently I am learning  Java and related features and actively looking for first job or internship.
+I am studing Computer Science at Silesian University of Technology since 2021.<br>Before college I started learning C++ and during these two years did few projects <br>(some of them are placed in repository).<br>Currently I am learning  Java and related features and actively looking for first job or internship.
 
 
 ## 🌐 Socials:
