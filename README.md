@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am studing Computer Science at Silesian University of Technology since 2021.<br>Before college I started learning C++, Java related technologies (Java, Kotlin, Groovy) and during these years did few projects <br>(some of them are placed in account's repositories).<br>Currently I am working as Java Developer in company Nubisoft.
+I am studing Computer Science at Silesian University of Technology since 2021.<br>Before college I started learning C++, Java related technologies (Java, Kotlin, Groovy) and during these years did few projects <br>(some of them are placed in account's repositories).<br>Currently I am working as Java Developer in company [Nubisoft](https://nubisoft.io/).
 
 
 ## 🌐 Socials:
