@@ -1,6 +1,4 @@
 # 💫 About Me:
-I am studing Computer Science at Silesian University of Technology since 2021.<br>Before college I started learning C++, Java related technologies (Java, Kotlin, Groovy) and during these years did few projects <br>(some of them are placed in account's repositories).<br>Currently I am working as Java Developer in company [Nubisoft](https://nubisoft.io/).
-
 I studied Computer Science at the Silesian University of Technology from 2021 and recently completed my engineering degree (Bachelor of Engineering).
 Currently, I am working as a Software Engineer at [Nubisoft](https://nubisoft.io/), specializing in Java-based technologies such as Kotlin and Groovy.
 I am continuing my education at WSB Merito in Chorzów to further expand my knowledge and skills.
